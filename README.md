@@ -9,16 +9,17 @@ This tutorial outlines the process of assigning Roles to user accounts in Entra 
 - Windows 11
 <h2>Assigning Roles </h2>
 <p>
-<img width="956" height="288" alt="chris role assignments" src="https://github.com/user-attachments/assets/c685c69d-e3a4-4bd3-a97d-3b72d40b94df" />
+<img width="953" height="371" alt="chris assigned role" src="https://github.com/user-attachments/assets/fffca879-01d1-4513-a26a-932ce4a485b0" />
 </p>
 <p>
 Assigned Directory Readers Role and User Administrator Role to user Chris Walker.
 </p>
 <br />
 <p>
-<img width="958" height="291" alt="jordan role assignment" src="https://github.com/user-attachments/assets/b6ab66d5-c079-4a89-a05a-40ddaae55fe9" />
+<img width="956" height="373" alt="jordan assigned role" src="https://github.com/user-attachments/assets/c1416943-ee5d-474f-8dc8-3eeed6278a04" />
 </p>
 <p>
-Assigned reports reader Role and SharePoint Administrator Role to user Jordan Lee.
+Assigned Reports Reader Role and SharePoint Administrator Role to user Jordan Lee.
 </p>
+
 
