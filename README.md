@@ -12,14 +12,14 @@ This tutorial outlines the process of assigning Roles to user accounts in Entra 
 <img width="953" height="371" alt="chris assigned role" src="https://github.com/user-attachments/assets/fffca879-01d1-4513-a26a-932ce4a485b0" />
 </p>
 <p>
-Assigned Directory Readers Role and User Administrator Role to user Chris Walker.
+Assigned User Administrator and Directory Readers Role to user Chris Walker.
 </p>
 <br />
 <p>
 <img width="956" height="373" alt="jordan assigned role" src="https://github.com/user-attachments/assets/c1416943-ee5d-474f-8dc8-3eeed6278a04" />
 </p>
 <p>
-Assigned Reports Reader Role and SharePoint Administrator Role to user Jordan Lee.
+Assigned SharePoint Administrator and Reports Reader Role to user Jordan Lee.
 </p>
 
 
