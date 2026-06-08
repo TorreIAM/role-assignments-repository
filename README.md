@@ -2,7 +2,7 @@
 <br /><img width="470" height="305" alt="microsoft entra ID logo" src="https://github.com/user-attachments/assets/7c30245e-ff13-4bbd-8b97-6accd2bd19a1" />
 </p>
 <h1>Role Assignments for Users (Azure)</h1>
-This tutorial outlines the process of assigning role-based access permissions to users in Microsoft Entra ID.<br />
+This lab documents the process of assigning role-based access permissions to users in Microsoft Entra ID.<br />
 <h2>Environments and Technologies Used</h2>
 - Microsoft Azure Entra ID
 <h2>Operating Systems Used </h2>
